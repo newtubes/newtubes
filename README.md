@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @newtubes
-- I’m interested in Unix
-- Aix
-- System
+- 👋 Hi, I’m @becaromcy
+- I’m interested in Unix/Linux
+- Artificial Intelligence
+- Cybersecurity
 Saludos Amigos
 <!---
 newtubes/newtubes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
